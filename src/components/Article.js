@@ -1,9 +1,10 @@
 import React from "react";
+import App from "./App";
 
 function Article() {
   return (
     <div>
-      {/* please pass this test */}
+      {App}
     </div>
   );
 }
